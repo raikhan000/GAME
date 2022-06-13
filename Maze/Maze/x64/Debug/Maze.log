@@ -1,0 +1,10 @@
+﻿main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_StretchDIBits в функции WinMain
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_TranslateMessage в функции WinMain
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_DispatchMessageW в функции WinMain
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_PeekMessageW в функции WinMain
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_DefWindowProcW в функции "__int64 __cdecl window_callback(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?window_callback@@YA_JPEAUHWND__@@I_K_J@Z)
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_RegisterClassW в функции WinMain
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_CreateWindowExW в функции WinMain
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetDC в функции WinMain
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetClientRect в функции "__int64 __cdecl window_callback(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?window_callback@@YA_JPEAUHWND__@@I_K_J@Z)
+C:\Users\admin\Desktop\Maze\x64\Debug\Maze.exe : fatal error LNK1120: неразрешенных внешних элементов: 9
