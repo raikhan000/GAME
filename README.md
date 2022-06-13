@@ -18,14 +18,16 @@ Controlled Player - Green
 Emptiness - white  
 wall - purple  
 ruined floor - lilac  
-  
+![alt text](2D-1.png)  
 Restriction: You can walk on the floor 3 times. After that, the floor collapses and  
 turns purple.  
-  
+![alt text](2d-2.png)  
 After hitting the void or finding an exit, a menu appears informing that  
 the player has lost or won.The menu allows the player to start the game again, exit the game  
 and go to a new level.  
-  
+![alt text](2d-3.png)  
+![alt text](2d-4.png)  
 The maze of the second round  
-  
+![alt text](2D-5.png)  
 After completing all levels, it is reported that the game is over  
+![alt text](2D-6.png)  
